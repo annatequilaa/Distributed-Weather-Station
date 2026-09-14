@@ -1,4 +1,4 @@
-# Unit 2: A Distributed Weather Station for Survival of a Stray Cat
+# A Distributed Weather Station for Survival of a Stray Cat
 
 ## Criteria A: Planning
 
